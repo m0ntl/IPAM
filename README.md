@@ -11,7 +11,7 @@
 ## Features
 * Support IPV4/IPV6
 * SSO
-* Bulk import: CSV,JSON,
+* Bulk import: CSV
 
 ## storage
 * Azure table storage
