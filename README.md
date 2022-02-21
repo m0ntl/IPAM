@@ -9,9 +9,9 @@
 * List used/free ip in allocated range
 
 ## Features
-Support IPV4/IPV6
-SSO
-Bulk import: CSV,JSON,
+* Support IPV4/IPV6
+* SSO
+* Bulk import: CSV,JSON,
 
 ## storage
 * Azure table storage
